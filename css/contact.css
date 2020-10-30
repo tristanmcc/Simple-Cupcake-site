@@ -1,0 +1,19 @@
+.contact-list{
+    text-align: center;
+}
+
+.contact-list :hover {
+    text-decoration: none;
+  }
+.contact-list :visited { 
+text-decoration: none; 
+color:aquamarine; 
+}
+.contact-list :focus { 
+text-decoration: none; 
+color:aquamarine; 
+}
+.contact-list :active { 
+text-decoration: none; 
+color:aquamarine; 
+}

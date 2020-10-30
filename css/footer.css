@@ -1,0 +1,30 @@
+.footer{
+    background-color:#50181C;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 0;
+    color: aquamarine;
+}
+
+.socials{
+    display: flex;
+    justify-content: space-around;
+    color: aquamarine; 
+}
+
+.socials :hover {
+        text-decoration: none;
+      }
+.socials :visited { 
+    text-decoration: none; 
+    color:aquamarine; 
+}
+.socials :focus { 
+    text-decoration: none; 
+    color:aquamarine; 
+}
+.socials :active { 
+    text-decoration: none; 
+    color:aquamarine; 
+}

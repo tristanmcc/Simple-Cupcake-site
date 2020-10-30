@@ -1,0 +1,73 @@
+@media (min-width: 750px){
+body{
+    background-image: url("../imgs/cupcakes/Cupcake-Banner.jpg");
+    height: 120px;
+    background-position: top 80px left 0px;
+    background-repeat: no-repeat;
+    margin-left: 0;
+    padding: 0%;
+}
+}
+@media (min-width: 300px){
+    body{
+        background-image: url("../imgs/cupcakes/Cupcake-Banner.jpg");
+        height: 120px;
+        background-position: top 80px left 0px;
+        background-repeat: no-repeat;
+        margin-left: 0;
+        padding: 0%;
+    }
+}
+
+
+.header-colourblock {
+    background-color:#50181C;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-bottom: 0;
+    
+}
+
+.header .site-name{
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+    text-align: center;
+}
+
+.sub-header-links{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sub-header-links :hover {
+        text-decoration: none;
+        background-color: aquamarine;
+      }
+.sub-header :visited { 
+    text-decoration: none; color:#50181C ; 
+}
+.sub-header:hover { 
+    text-decoration: none; color:#50181C ; 
+}
+.sub-header:focus { 
+    text-decoration: none; color:#50181C ; 
+}
+.sub-header:active { 
+    text-decoration: none; color:#50181C  
+}
+
+.text{
+    padding-left: 30%;
+    padding-right: 30%;
+    justify-content: space-around;
+}
+
+.logo{
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: solid 5px #50181C;
+    
+}
